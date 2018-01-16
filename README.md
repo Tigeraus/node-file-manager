@@ -1,7 +1,8 @@
-# Screen Shot
-![screenshot](https://raw.githubusercontent.com/efeiefei/node-file-manager/master/example/screenshot.png)
+# Web File browser
 
-# Usage
+*Modified from: https://github.com/efeiefei/node-file-manager*
+
+## Usage
 
 ```sh
   npm install -g node-file-manager
