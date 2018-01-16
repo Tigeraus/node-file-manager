@@ -5,13 +5,6 @@
 ## Usage
 
 ```sh
-  npm install -g node-file-manager
-  node-file-manager -p 8080 -d /path/to/
-```
-
-Or
-
-```sh
   git clone https://github.com/efeiefei/node-file-manager.git
   cd node-file-manager
   npm i
